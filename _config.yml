@@ -107,7 +107,7 @@ analytics:
 # Site Author
 author:
   name             : "Glauber Cardoso"
-  avatar           : # path of avatar image, e.g. "/assets/images/profile-photo.jpg"
+  avatar           : "/assets/images/profile-photo.jpg"
   bio              : "Operational Researcher, Decision Scientist - Solution-based application developer."
   location         : "Somewhere"
   email            :
