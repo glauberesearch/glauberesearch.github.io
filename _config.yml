@@ -16,13 +16,13 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-AU"
-title                    : "@glauberesearch page"
+title                    : "Contributor @glauberesearch"
 title_separator          : "–"
 name                     : "Glauber Cardoso"
-description              : "The @glauberesearch technoscientific Contribution in OR/STEM."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : "Contributor @glauberesearch homepage"
+url                      : "https://glauberesearch.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "glauberesearch/glauberesearch.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -108,7 +108,7 @@ analytics:
 author:
   name             : "Glauber Cardoso"
   avatar           : /assets/images/profile-photo.jpg
-  bio              : "Operational Researcher, Computational Scientist – Application developer for decision-making in problem-solving."
+  bio              : "Operations Researcher, Computational Scientist – \\ Application developer for decision-making in problem-solving."
   location         : "Gold Coast QLD Australia, Oceania"
   email            :
   links:
